@@ -150,7 +150,7 @@
 
                 // if the delete is successful, return NoContent
 
-                // if the object is not found, return NotFound()
+                // if the object is not found, return NotFound
 
                 return StatusCode(HttpStatusCode.NoContent);
             }
